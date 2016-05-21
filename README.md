@@ -1,2 +1,2 @@
 # msdyncrm
-A Place for any source code share via my blog http://msdyncrm.azurewebsites.net/
+A Place for any source code shared via my blog http://msdyncrm.azurewebsites.net/
